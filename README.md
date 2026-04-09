@@ -15,9 +15,9 @@ Um miniguia para estudo sobre finanças baseado no pensamento de John Bogle, fei
 
 3. Engenharia de Prompts e "Cicatrizes": 
   - Prompt 1: Quais são os pilares da estratégia de Bogle?
-Resultado: A IA listou diversificação e taxas baixas.
+    Resultado: A IA listou diversificação e taxas baixas.
   - Prompt 2 (Ajustado): Explique os pilares de Bogle usando uma analogia com a construção civil ou engenharia.
-Cicatriz: Tentei um prompt genérico e a resposta foi técnica demais. Quando pedi a analogia com engenharia, a IA comparou a carteira de investimentos com uma fundação sólida, o que facilitou meu aprendizado.
+    Cicatriz: Tentei um prompt genérico e a resposta foi técnica demais. Quando pedi a analogia com engenharia, a IA comparou a carteira de investimentos com uma fundação sólida, o que facilitou meu aprendizado.
 
 
 4. miniguia de estudos:
