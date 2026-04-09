@@ -46,3 +46,6 @@ Disciplina e Inação: Uma vez estabelecido um plano sólido e diversificado, a 
     - Prompt 1: Quais são os pilares da estratégia de Bogle?
     - Prompt 2: Como as taxas e impostos prejudicam os meus retornos?
     - Prompt 3: Por que o autor recomenda investir no mercado total?
+
+
+- Link para o "Investing with Boglehead Mentality" no NotebookLM: https://notebooklm.google.com/notebook/42fa2a01-8eeb-4dc2-b6a7-8e7c41efc1f7
